@@ -38,3 +38,12 @@ git log
 ```
 
 handle b edit
+| header1 | header2 | header3 |
+| ------- | ------- | ------- |
+| aa | b | |
+| a | | |
+| a | v | |
+
+ss
+
+edit to create conflict
