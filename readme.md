@@ -46,3 +46,4 @@ git log
 ss
 
 edit to create conflict
+handle b edit
