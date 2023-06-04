@@ -37,6 +37,7 @@ const a = 11;
 git log
 ```
 
+<<<<<<< HEAD
 | header1 | header2 | header3 |
 | ------- | ------- | ------- |
 | aa      | b       |         |
@@ -46,4 +47,6 @@ git log
 ss
 
 edit to create conflict
+=======
+>>>>>>> 485a1e2 (handle b readme)
 handle b edit
