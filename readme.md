@@ -36,3 +36,5 @@ const a = 11;
 ```bash
 git log
 ```
+
+handle b edit
