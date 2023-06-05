@@ -37,7 +37,6 @@ const a = 11;
 git log
 ```
 
-handle b edit
 <<<<<<< HEAD
 | header1 | header2 | header3 |
 | ------- | ------- | ------- |
@@ -47,7 +46,21 @@ handle b edit
 
 ss
 
+# edit to create conflict
+
+> > > > > > > 485a1e2 (handle b readme)
+> > > > > > > handle b edit
+> > > > > > > <<<<<<< HEAD
+> > > > > > > | header1 | header2 | header3 |
+> > > > > > > | ------- | ------- | ------- |
+> > > > > > > | aa | b | |
+> > > > > > > | a | | |
+> > > > > > > | a | v | |
+
+ss
+
 edit to create conflict
 handle b edit
 =======
->>>>>>> parent of 66f02ff (edit readme)
+
+> > > > > > > parent of 66f02ff (edit readme)
